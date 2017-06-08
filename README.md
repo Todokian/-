@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>lol</title>
+	<title> Практика</title>
 </head>
 <style>
 	.qwe {
@@ -56,6 +56,5 @@
 	<li class="qw"><a href = "#"> Контакты <a></li>
 </ul>
 </div>
-<h1></h1>
 </body>
 </html>
