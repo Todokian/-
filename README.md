@@ -56,5 +56,6 @@
 	<li class="qw"><a href = "#"> Контакты <a></li>
 </ul>
 </div>
+<body>
 </body>
 </html>
